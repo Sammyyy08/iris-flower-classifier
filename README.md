@@ -58,7 +58,7 @@ A simple but effective algorithm that classifies a new data point by looking at 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/iris-flower-classifier.git
+   git clone https://github.com/Sammyyy08/iris-flower-classifier.git
    cd iris-flower-classifier
    ```
 
@@ -102,4 +102,4 @@ iris-flower-classifier/
 
 ## 📬 Connect
 
-Feel free to reach out or connect with me on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)!
+Feel free to reach out or connect with me on [LinkedIn](https://linkedin.com/in/swayam-chaudhari-714a892a2)!
